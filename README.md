@@ -1,4 +1,5 @@
 14.Razporejanje dvigal
+
 Pripravite se na spopadanje z izzivom, ki ga navdihuje vrsta težav, s katerimi se srečujejo inženirji v
 vrhunskih tehnoloških podjetjih, kot je Google. Ta teden vas vabimo, da rešite Elevator System
 Algorithm Challenge, nalogo, ki je zasnovana za preizkušanje vaših veščin načrtovanja sistemov in
